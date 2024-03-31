@@ -1,4 +1,5 @@
 title {
     color : red;
-    border : 100%
+    border : 100%;
+    width: max-content;
 }
